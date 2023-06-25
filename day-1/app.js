@@ -14,13 +14,6 @@ missing) after argument list = parantezin biri kapanmadıysa verilen hatadır.
 hataları düzeltme olayına debugging denir.
 */
 
-/* İŞLEMLER */
-console.log(2 + 3); // Addition
-console.log(3 - 2); //subtraction
-console.log(2 * 3); //Multiplication
-console.log(3 / 2); //Division
-console.log(3 % 2);//Modulus - finding remainder
-console.log(3 ** 2); //Exponentiation 3 ** 2 == 3 * 3
 
 /* ADD TO JS
 Inline Script: HTML etiketi yazar gibi jsyi eklemek 
