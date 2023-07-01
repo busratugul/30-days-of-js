@@ -185,6 +185,10 @@ console.log("bus\\ra");
 
         .uppercase() = büyük harf
 
+        .toLocaleUpperCase("TR")
+
+        .toLocaleLowerCase("TR")
+
         .lowercase() = küçük harf
 
         .substr() = stringi bölmek ilk dahil son dahil
